@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "633518263709",
+    "firebase_url": "https://xcustomdb-default-rtdb.firebaseio.com",
+    "project_id": "xcustomdb",
+    "storage_bucket": "xcustomdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633518263709:android:6b60421f4567e27afab374",
+        "android_client_info": {
+          "package_name": "com.example.xcustom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633518263709-agreei404olh3m6p6dulmu54cgihb3qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBM3U7125cdlv1NkO5DpKD4xsvXMCdLmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633518263709-agreei404olh3m6p6dulmu54cgihb3qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

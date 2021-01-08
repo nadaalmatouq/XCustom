@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">X custom</string>
+
+    <string name="country_prompt">Choose a country</string>
+</resources>
